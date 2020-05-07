@@ -32,13 +32,13 @@
     "$oid": "5e4d840d9510103a245aec85"
   },
   "contact_infos": {
-    "user_real_name": "xxxxxx",
+    "user_real_name": "Sivaslı Yiğido",
     "user_surname": "xx",
     "user_phone": "053333333323"
   },
   "user_infos": {
     "user_password": "8f10d078b2799206cfe914b32cc6a5e9",
-    "user_mail": "aaaa@xxxx.com",
+    "user_mail": "den58@gmail.com",
     "user_web_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
     "user_mobile_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
     "img": "",
@@ -158,7 +158,7 @@
     "user_web_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
     "user_mobile_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
     "img": "",
-    "role_lvl": 5
+    "role_lvl": 3
   },
   "push_infos": {
     "push_id": ""
